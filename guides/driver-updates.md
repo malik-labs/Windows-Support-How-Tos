@@ -33,5 +33,5 @@ Graphics drivers come from the card's vendor, so this depends on the PC: NVIDIA,
 ---
 
 <p align="center">
-<a href="windows-update.md">← Windows Update</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="disk-cleanup.md">Disk Cleanup →</a>
+<a href="disk-cleanup.md">← Disk Cleanup</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="optimise-defragment.md">Optimise and defragment a drive →</a>
 </p>

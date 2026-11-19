@@ -26,5 +26,5 @@ Keep Windows patched for security, stability and performance.
 ---
 
 <p align="center">
-<a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="driver-updates.md">Driver updates (including graphics) →</a>
+<a href="optimise-defragment.md">← Optimise and defragment a drive</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a>
 </p>

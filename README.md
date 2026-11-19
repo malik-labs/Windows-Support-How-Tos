@@ -4,16 +4,16 @@
 <b>Short video guides to everyday first-line support tasks on Windows.</b>
 </p>
 
-Each guide pairs a screen-recorded video with written steps: when you'd use it, what to click, and how to check it worked. The order follows how I'd work through a slow or misbehaving PC: get it patched, update drivers, free up space, then check drive optimisation.
+Each guide pairs a screen-recorded video with written steps: when you'd use it, what to click, and how to check it worked. They run from the more hands-on tasks to the everyday ones: freeing disk space, updating drivers, optimising drives, then keeping Windows up to date.
 
 <h2>Guides</h2>
 
 | # | Guide | What it covers | Video |
 |---|---|---|---|
-| 1 | [Windows Update](guides/windows-update.md) | Keep Windows patched for security, stability and performance. | [▶️ Video](https://youtu.be/s8Odw-dTmlE) |
+| 1 | [Disk Cleanup](guides/disk-cleanup.md) | Free up space on the C: drive by removing temporary and unneeded files. | [▶️ Video](https://youtu.be/soUj18S9ErY) |
 | 2 | [Driver updates (including graphics)](guides/driver-updates.md) | Update device drivers through Device Manager and the GPU vendor's app. | [▶️ Video](https://youtu.be/KGBGOnNfv5Y) |
-| 3 | [Disk Cleanup](guides/disk-cleanup.md) | Free up space on the C: drive by removing temporary and unneeded files. | [▶️ Video](https://youtu.be/soUj18S9ErY) |
-| 4 | [Optimise and defragment a drive](guides/optimise-defragment.md) | Open Windows' Optimise Drives tool and set how often it runs. | [▶️ Video](https://youtu.be/KBWDG4EvrJM) |
+| 3 | [Optimise and defragment a drive](guides/optimise-defragment.md) | Open Windows' Optimise Drives tool and set how often it runs. | [▶️ Video](https://youtu.be/KBWDG4EvrJM) |
+| 4 | [Windows Update](guides/windows-update.md) | Keep Windows patched for security, stability and performance. | [▶️ Video](https://youtu.be/s8Odw-dTmlE) |
 
 <h2>Environments and Technologies Used</h2>
 

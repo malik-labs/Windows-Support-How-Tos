@@ -24,5 +24,5 @@ Open Windows' Optimise Drives tool and set how often it runs.
 ---
 
 <p align="center">
-<a href="disk-cleanup.md">← Disk Cleanup</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a>
+<a href="driver-updates.md">← Driver updates (including graphics)</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="windows-update.md">Windows Update →</a>
 </p>

@@ -26,5 +26,5 @@ Reopening Disk Cleanup showed the Recycle Bin and the other selected items at **
 ---
 
 <p align="center">
-<a href="driver-updates.md">← Driver updates (including graphics)</a> &nbsp;·&nbsp; <a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="optimise-defragment.md">Optimise and defragment a drive →</a>
+<a href="../README.md#guides">All guides</a> &nbsp;·&nbsp; <a href="driver-updates.md">Driver updates (including graphics) →</a>
 </p>
